@@ -1,0 +1,13 @@
+{
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.formatOnPaste": false,
+        "editor.formatOnSaveMode": "file",
+        "editor.formatOnSave": true
+    },
+    "python.envFile": "${workspaceRoot}/.env",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/grammar/antlr-4.13.1-complete.jar"
+    ]
+}

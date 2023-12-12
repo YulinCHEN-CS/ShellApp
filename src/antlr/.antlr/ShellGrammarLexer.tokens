@@ -1,0 +1,7 @@
+PIPE=1
+SEMICOLON=2
+STRING=3
+ID=4
+WS=5
+'|'=1
+';'=2
